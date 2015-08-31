@@ -6,6 +6,10 @@ import java.io.PrintStream;
 
 import org.apache.commons.net.telnet.TelnetClient;
 // Modified with Name :
+<<<<<<< HEAD
+=======
+//Master Modified
+>>>>>>> master
 public class LBTestTelnetClient {
 
 	private TelnetClient telnet = new TelnetClient();
